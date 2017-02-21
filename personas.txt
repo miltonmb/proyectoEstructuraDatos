@@ -1,0 +1,19 @@
+Presidente,Manuel,1200
+	Gerente,Casco,2000
+		Gerente,Pedrito,4000
+			Vendedor,Juansito,3400
+			Vendedor,Carlitos,4300
+				Chiclero,Pepe,3200
+			Vendedor,Oscarito,4300
+		Secretaria,Maria,2300
+			Aseador,Dudi,4300
+				Aseador_cuatro,tomas,4500
+				Conserje,juancho,2300
+					Aseador,joje,23400
+						Aseadora,jije,33400
+							Aseador,joje,23400
+								Aseador,joje,23400
+									Aseador,joje,23400
+	Vice-Presidente,Carla,3400
+		Aseadora,jije,33400
+			Aseadora,jije,33400
